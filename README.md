@@ -45,12 +45,10 @@ Turning complex problems into simple solutions, one line of code at a time! 🚀
 
 <h2>🚀 Achievements</h2>
 <ul>
-  <li>🏆 <strong>Completed 50-Day LeetCode Challenge</strong> – Strengthened DSA skills through daily problem-solving.</li>
-  <li>👨‍💻 <strong>Junior Developer Intern at Namoona 3D Labs</strong> – Contributing to real-world development and innovation.</li>
-  <li>💡 <strong>Smart India Hackathon 2024 Finalist</strong> – Developed an AI-driven agri-price prediction system with <em>Team TechTitans7</em>.</li>
+  <li>👨‍💻 <strong>Full Stack Developer Intern at SmartBridge</strong> – Contributing to real-world development and innovation.</li>
+  <li>💡 <strong>Top-10 in National Level Hackathon 2025</strong> – Developed an AI-driven Health-care ChatBot system with <em>Team GIOCO</em>.</li>
   <li>🎓 <strong>Infosys Springboard Internship</strong> – Full Stack Developer track with hands-on project experience.</li>
-  <li>🌐 <strong>GirlScript Summer of Code (GSSoC) 2024</strong> – Open Source Contributor & Campus Ambassador.</li>
-  <li>🔧 <strong>Smart Walking Cane Project</strong> – Worked on IoT sensor integration for visually impaired users.</li>
+  <li>🔧 <strong>QuickBlog -Blogging Paltform Project</strong> – MERN Stack with AI-powered content generation feature.</li>
 </ul>
 
 
