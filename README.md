@@ -57,5 +57,5 @@ Turning complex problems into simple solutions, one line of code at a time! 🚀
 ## 🔗 Let's Connect:
 
 ![](https://komarev.com/ghpvc/?username=chikatlarakesh)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/rakeshchikatla)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/chikatlarakesh)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/mahidhar-angam-1b9a692b5/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/MAHIDHAR1232)
