@@ -2,7 +2,7 @@
 
 Turning complex problems into simple solutions, one line of code at a time! 🚀
 
-- 🔭 Currently working on: [Technical Term Simplifier](https://github.com/chikatlarakesh/Technical-Term-Simplifier.git) – A full-stack MERN application implementing secure user authentication with JWT-based login, signup, password hashing, and role-based access control.
+- 🔭 Currently working on: [Authentication System](https://github.com/chikatlarakesh/Technical-Term-Simplifier.git) – A full-stack MERN application implementing secure user authentication with JWT-based login, signup, password hashing, and role-based access control.
 - 🌱 Learning full-stack web development with JavaScript, React, Node.js, and MongoDB. 
 - 🏆 Completed the 50-day LeetCode Challenge to strengthen my problem-solving skills.
 - 💬 Ask me about Java, Data Structures & Algorithms, and Web Development.
