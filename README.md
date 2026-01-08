@@ -35,19 +35,13 @@ Turning complex problems into simple solutions, one line of code at a time! 🚀
 
 ---
 <!-- Add your most-used languages in GitHub -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chikatlarakesh&layout=compact&theme=radical" alt="Top Languages"/>
-
-## 📊 LeetCode Stats:
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Rakesh_chikatla?theme=dark&font=Fira%20Code&ext=heatmap)       
-
-![LeetCode Stats](https://leetcode-badge-showcase.vercel.app/api?username=Rakesh_chikatla&theme=dark&border=border&animated=true)
+<!--
 
 
 ## 📊 GitHub Stats:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chikatlarakesh&show_icons=true)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=chikatlarakesh&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=chikatlarakesh&theme=dark)](https://git.io/streak-stats)-->
 
 <h2>🚀 Achievements</h2>
 <ul>
