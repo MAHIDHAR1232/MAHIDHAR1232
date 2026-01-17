@@ -1,5 +1,4 @@
 # Hi, I'm Angam Mahidhar 👋
-
 Turning complex problems into simple solutions, one line of code at a time! 🚀
 
 - 🔭 Currently working on: [Authentication System](https://github.com/chikatlarakesh/Technical-Term-Simplifier.git) – A full-stack MERN application implementing secure user authentication with JWT-based login, signup, password hashing, and role-based access control.
