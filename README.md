@@ -1,60 +1,28 @@
-# Hi, I'm Angam Mahidhar 👋
-Turning complex problems into simple solutions, one line of code at a time! 🚀
+<h1 align="center">Hi 👋, I'm ANGAM MAHIDHAR</h1>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🔭 Currently working on: [Authentication System](https://github.com/chikatlarakesh/Technical-Term-Simplifier.git) – A full-stack MERN application implementing secure user authentication with JWT-based login, signup, password hashing, and role-based access control.
-- 🌱 Learning full-stack web development with JavaScript, React, Node.js, and MongoDB. 
-- 🏆 Completed the 50-day LeetCode Challenge to strengthen my problem-solving skills.
-- 💬 Ask me about Java, Data Structures & Algorithms, and Web Development.
-- ⚡ Fun fact: Always up for a challenge, whether it’s a new problem on LeetCode or learning a new framework!
-- 📫 How to reach me: [mahidhar1232@gmail.com](mailto:mahidhar1232@gmail.com)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahidhar1232&label=Profile%20views&color=0e75b6&style=flat" alt="mahidhar1232" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahidhar1232" alt="mahidhar1232" /></a> </p>
 
-## 🛠 Tech Stack:
-![Java](https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white&style=flat)
-![Data Structures & Algorithms](https://img.shields.io/badge/-Data%20Structures%20&%20Algorithms-61DAFB?style=flat)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-<!--![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)-->
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
-<!--![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)-->
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
-<!--![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)-->
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
-![REST API](https://img.shields.io/badge/-REST%20API-61DAFB?logo=postman&logoColor=black&style=flat)
+- 🌱 I’m currently learning **SpringBoot(Backend)**
 
+- 👯 I’m looking to collaborate on **mern-stack**
 
----
-<!-- Add your most-used languages in GitHub -->
-<!--
+- 👨‍💻 All of my projects are available at [https://portfoliomine-one.vercel.app/](https://portfoliomine-one.vercel.app/)
 
+- 📝 I regularly write articles on [I regularly write articles on full-stack development trends, optimizing RESTful APIs with Spring Boot, and building scalable MERN stack applications.](I regularly write articles on full-stack development trends, optimizing RESTful APIs with Spring Boot, and building scalable MERN stack applications.)
 
-## 📊 GitHub Stats:
+- 📫 How to reach me **mahidhar1232@gmail.com**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chikatlarakesh&show_icons=true)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=chikatlarakesh&theme=dark)](https://git.io/streak-stats)-->
+- 📄 Know about my experiences [https://drive.google.com/file/d/1iiHB0sw06RpG4SxJHMDoBi-h-HIeVeXt/view?usp=sharing](https://drive.google.com/file/d/1iiHB0sw06RpG4SxJHMDoBi-h-HIeVeXt/view?usp=sharing)
 
-<h2>🚀 Achievements</h2>
-<ul>
-  <li>👨‍💻 <strong>Full Stack Developer Intern at SmartBridge</strong> – Contributing to real-world development and innovation.</li>
-  <li>💡 <strong>Top-10 in National Level Hackathon 2025</strong> – Developed an AI-driven Health-care ChatBot system with <em>Team GIOCO</em>.</li>
-  <li>🎓 <strong>Infosys Springboard Internship</strong> – Full Stack Developer track with hands-on project experience.</li>
-  <li>🔧 <strong>QuickBlog -Blogging Paltform Project</strong> – MERN Stack with AI-powered content generation feature.</li>
-</ul>
+- ⚡ Fun fact **I’ve solved enough LeetCode problems to realize that the most complex data structure is actually a clean README.md.**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mahidhar-angam-1b9a692b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahidhar-angam-1b9a692b5/" height="30" width="40" /></a>
+</p>
 
----
-
-## 🔗 Let's Connect:
-
-![](https://komarev.com/ghpvc/?username=chikatlarakesh)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/mahidhar-angam-1b9a692b5/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/MAHIDHAR1232)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
