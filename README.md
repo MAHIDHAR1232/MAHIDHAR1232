@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm ANGAM MAHIDHAR</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahidhar1232" alt="mahidhar1232" /></a> </p>
-
 - 🌱 I’m currently learning **SpringBoot(Backend)**
 
 - 👯 I’m looking to collaborate on **mern-stack**
